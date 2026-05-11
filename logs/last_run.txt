@@ -1,7 +1,7 @@
-Last run: 2026-05-10 22:31:36 UTC
-Workflow: 25641530857
+Last run: 2026-05-11 10:49:26 UTC
+Workflow: 25665533112
 Repository: farzen1996-web/telegram-mirror
 Validation: success
 Mirror success: true
-Media files: 919
-Media size: 359M
+Media files: 960
+Media size: 331M
