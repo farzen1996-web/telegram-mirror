@@ -9876,6 +9876,107 @@
     ],
     "IranintlTV": [
       {
+        "id": 340966,
+        "text": "سرخط خبرهای یکشنبه ۱۷ خرداد\n@iranintltv",
+        "date": "2026-06-07T10:37:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_340966_0_380716be.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_340966_1_cb5d6fba.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/340966"
+      },
+      {
+        "id": 340965,
+        "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند ایرانیان مقیم بریتانیا شنبه ۱۶ خرداد علیه جمهوری اسلامی در خیابان‌های لندن راهپیمایی کرده و فریاد زدند: «سپاه تروریست است»",
+        "date": "2026-06-07T10:34:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_340965_0_380716be.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_340965_1_03b9aab9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/340965"
+      },
+      {
+        "id": 340963,
+        "text": "حسینعلی شهریاری، رییس کمیسیون بهداشت و درمان مجلس، به خبرگزاری ایلنا گفت کشور در شرایطی قرار دارد که نه می‌توان آن را جنگ کامل دانست و نه صلح پایدار.\nاو این وضعیت را «یکی از دشوارترین شرایط ممکن» توصیف کرد و افزود در شرایط جنگ، تکلیف بسیاری از امور روشن‌تر است، اما اکنون نوعی عدم قطعیت و ابهام نسبت به آینده وجود دارد و مشخص نیست چه تحولاتی در ادامه رخ خواهد داد.\nشهریاری درباره نگرانی‌های عمومی گفت مردم نسبت به آینده کشور حساسیت بالایی دارند و در فضای عمومی نگرانی‌ها و مطالبات متعددی مطرح می‌شود.\nhttps://iranintl.com/202606072918",
+        "date": "2026-06-07T10:21:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_340963_0_380716be.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_340963_1_5ab57670.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606072918",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606072918"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/340963"
+      },
+      {
+        "id": 340962,
+        "text": "خبرگزاری فارس، وابسته به سپاه پاسداران گزارش داد که «طرح دریافت بهای خدمات از کشتی‌های عبوری تنگه هرمز» اجرایی شده و برای اجرای این طرح، مجموعه‌ای با همکاری وزارت اقتصاد و تحت نظارت شورای عالی امنیت ملی تشکیل شده است.\nبه نوشته این رسانه وابسته به سپاه، مبالغ دریافتی به خزانه واریز و در محل‌های تعیین‌شده هزینه می‌شود.\nفارس ادامه داد که بخشی از این پرداخت‌ها نقدی نیست و در قالب تتر، کالا یا تهاتر انجام می‌شود؛ به‌طوری که برخی کشتی‌ها به‌جای پرداخت پول، کالا یا خدمات ارائه می‌کنند و ارزش آن از مبلغ قابل پرداخت کسر می‌شود.\nهمچنین محسن زنگنه، نماینده تربت حیدریه در مجلس، به خبرگزاری فارس گفت که در حال حاضر از هر کشتی عبوری از تنگه هرمز به‌طور میانگین بین ۱.۵ تا دو میلیون دلار دریافت می‌شود.\niranintl.com/202606078438",
+        "date": "2026-06-07T10:18:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_340962_0_380716be.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_340962_1_09e48167.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/340962"
+      },
+      {
+        "id": 340961,
+        "text": "محسن نقوی، وزیر کشور پاکستان، در سفر به تهران نامه‌ای ویژه خطاب به مجتبی خامنه‌ای را به عباس عراقچی تحویل داد. او همچنین اعلام کرد این نامه به تحولات و شرایط کنونی مربوط است.\nجزییات بیشتر با علی شیرازی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-06-07T10:18:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_340961_0_380716be.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_340961_1_0a3f9d95.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/340961"
+      },
+      {
         "id": 340960,
         "text": "پس از انتشار گزارش‌هایی درباره بررسی استفاده آمریکا از دارایی‌های بلوکه‌شده ایران برای جبران خسارات کشورهای خلیج فارس، معاون پیشین رییس ستاد کل ارتش آمریکا اعلام کرد واشینگتن قصد آزادسازی این دارایی‌ها را ندارد.\nروح‌الله رحیم‌پور، تحلیل‌گر سیاسی، به ایران‌اینترنشنال گفت که آمریکا ممکن است از این دارایی‌ها به‌عنوان اهرم فشار استفاده کند و در صورت شکست مذاکرات، احتمال مصادره و اختصاص آن به کشورهای منطقه وجود دارد.\n@iranintltv",
         "date": "2026-06-07T10:02:16+00:00",
@@ -11823,104 +11924,28 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/340798"
-      },
-      {
-        "id": 340797,
-        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد روز شنبه دانش‌آموزان قم همزمان با سایر استان‌ها به تاثیر معدل پایه یازدهم در کنکور و شیوه برگزاری امتحانات اعتراض کردند.",
-        "date": "2026-06-06T10:45:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_340797_0_52f62361.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_340797_1_05c1dcc8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/340797"
-      },
-      {
-        "id": 340796,
-        "text": "سرخط خبرهای شنبه ۱۶ خرداد\n@iranintltv",
-        "date": "2026-06-06T10:36:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_340796_0_52f62361.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_340796_1_c7a7a4cc.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/340796"
-      },
-      {
-        "id": 340795,
-        "text": "ولودیمیر زلنسکی، رییس‌جمهوری اوکراین، با ارسال نامه‌ای به ولادیمیر پوتین، همتای روس خود، پیشنهاد دیداری مستقیم به منظور گفت‌وگو برای صلح را مطرح کرد.\nاحمد صمدی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
-        "date": "2026-06-06T10:31:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_340795_0_52f62361.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_340795_1_5fec3b0c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/340795"
-      },
-      {
-        "id": 340794,
-        "text": "ویدیوهای رسیده به ایران اینترنشنال نشان می‌دهد دانش‌آموزان در تهران جلوی ساختمان شورای عالی انقلاب فرهنگی تجمع کرده و شعار «دانش‌آموز داد بزن، حقتو فریاد بزن» سردادند.",
-        "date": "2026-06-06T10:31:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_340794_0_52f62361.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_340794_1_6a32b4ec.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/340794"
-      },
-      {
-        "id": 340793,
-        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد همزمان با سایر شهرهای ایران، محصلان کرمانشاه با تجمع مقابل اداره‌کل آموزش و پرورش به بلاتکلیفی وضعیت کنکور و حضوری شدن امتحانات مدارس اعتراض کردند. دانش‌آموزان دختر فریاد زدند: «محصل داد بزن حقتو فریاد بزن.»",
-        "date": "2026-06-06T10:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_340793_0_52f62361.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_340793_1_c9a79fb2.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/340793"
       }
     ],
     "tavaanatech": [
+      {
+        "id": 47270,
+        "text": "سیستم جدید فنلاند برای محافظت از کابل‌های اینترنت زیر دریا در برابر خرابکاری\nفنلاند در حال آزمایش روشی تازه برای محافظت از کابل‌های اینترنت در بستر دریاست؛ روشی که می‌تواند خود کابل‌های فیبر نوری را به نوعی حسگر طولانی‌مدت تبدیل کند و فعالیت‌های غیرعادی اطراف آن‌ها را زیر نظر بگیرد.\n🔹\nشرکت مخابراتی «الیسا» (Elisa) با همکاری مرزبانی و نیروی دریایی فنلاند، این سامانه را در خلیج فنلاند آزمایش کرده است. در جریان این آزمایش، چند سناریوی احتمالی از جمله حرکت کشتی‌ای شبیه‌سازی شد که لنگر آن روی کف دریا کشیده می‌شود؛ اتفاقی که می‌تواند در مدت کوتاهی به کابل‌های ارتباطی یا خطوط انتقال برق آسیب بزند.\n🔹\nاین فناوری با نام «حسگر آکوستیکی توزیع‌شده» یا «داس» شناخته می‌شود. در این روش نیازی نیست صدها حسگر جداگانه در کف دریا نصب شود. تجهیزات مخصوص، تغییرات بازتاب نور درون کابل فیبر نوری را بررسی می‌کنند.\n🔹\nهر لرزش غیرعادی در بستر دریا، از جمله کشیده‌شدن لنگر یک کشتی، الگوی بازتاب نور داخل فیبر را تغییر می‌دهد. سامانه با تحلیل این تغییرات می‌تواند متوجه شود که اتفاق غیرمعمولی در نزدیکی کابل در حال رخ دادن است.\nبه زبان ساده، کابل اینترنت فقط وظیفه انتقال داده را بر عهده ندارد؛ بلکه هم‌زمان مانند یک گوش طولانی در کف دریا عمل می‌کند.\n◾️\nهشدار پیش از قطع‌شدن کابل\n🔹\nآزمایش‌های اولیه با موفقیت انجام شده‌اند، اما این پروژه هنوز به پایان نرسیده است. الیسا می‌گوید در مرحله بعد، سامانه باید به‌صورت خودکار فعالیت‌های مشکوک را شناسایی کند و پیش از واردشدن خسارت، برای مقام‌های مسئول و مالکان زیرساخت‌های حیاتی هشدار بفرستد.\nهدف اصلی این است که نیروهای دریایی و مرزبانی فرصت داشته باشند پیش از قطع کابل، شناور مشکوک را بررسی کنند یا از ادامه فعالیت خطرناک آن جلوگیری کنند.\n🔹\nبراساس گزارش اتحادیه بین‌المللی مخابرات، حدود ۹۹ درصد ارتباطات اینترنتی جهان از طریق کابل‌های زیردریایی منتقل می‌شود. مرکز پژوهش مشترک اتحادیه اروپا نیز اعلام کرده است که بیش از ۴۰۰ کابل فعال با مجموع طول بیش از ۱.۳ میلیون کیلومتر در دریاها و اقیانوس‌های جهان گسترده شده‌اند.\nاین کابل‌ها تنها برای تماشای ویدئو، ارسال پیام یا دسترسی به شبکه‌های اجتماعی استفاده نمی‌شوند. تراکنش‌های مالی، خدمات بانکی، ارتباطات دولتی، سامانه‌های ابری و بخش بزرگی از فعالیت شرکت‌های بین‌المللی نیز به آن‌ها وابسته است.\n💸\ntavaanatech",
+        "date": "2026-06-07T10:37:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "tavaanatech_47270_0_1c79ce84.jpg"
+          },
+          {
+            "type": "image",
+            "file": "tavaanatech_47270_1_573e1bf2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/tavaanatech/47270"
+      },
       {
         "id": 47269,
         "text": "⚠️\nهشدار جدی درباره کلاهبرداری فروش فیلترشکن؛\nبه تبلیغات تلگرامی در کانال‌ها اعتماد نکنید\nدر هفته‌های اخیر و همزمان با قطعی سراسری اینترنت، بسیاری از کاربران ایرانی هدف تبلیغات گمراه‌کننده در «تلگرام ادز» قرار گرفته‌اند؛ تبلیغاتی که در کانال‌ها و گروه‌های تلگرامی، فروش VPN، فیلترشکن و انواع کانفیگ را تبلیغ می‌کنند.\n🔹\nاین تبلیغات به‌صورت خودکار و اجباری توسط تلگرام نمایش داده می‌شوند و هیچ ارتباطی با مدیران یا صاحبان کانال‌های خبری ندارند. به همین دلیل، حتی در کانال‌های معتبر هم ممکن است چنین آگهی‌هایی دیده شود، بدون اینکه ادمین‌ها نقشی در انتشار آن داشته باشند.\nبرخی از این تبلیغات با وعده دسترسی سریع به اینترنت جهانی، کاربران را فریب می‌دهند و در مواردی به کلاهبرداری منجر می‌شوند.\nنکته مهم:\nنمایش تبلیغات در تلگرام الزاما به معنی تأیید آن توسط صاحب کانال نیست. به‌ویژه در مورد فروش فیلترشکن و کانفیگ، به این آگهی‌ها اعتماد نکنید و با احتیاط کامل عمل کنید.\n💸\ntavaanatech",
@@ -14098,29 +14123,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/tavaanatech/47160"
-      },
-      {
-        "id": 47158,
-        "text": "کاربران چه می‌گویند؟\nواکنش‌ها به بازگشت محدود اینترنت در ایران\nاما پیام اصلی این واکنش‌ها درباره بازگشت محدود اینترنت این است: مسئله این نیست که اینترنت برگشته؛ مسئله این است که کاربران از اینترانت وارد فیلترنت شده‌اند. فیلترینگ همچنان پابرجاست، محدودیت‌ها ادامه دارد، واتس‌اپ و بسیاری از مسیرهای ارتباطی هنوز نیاز به ابزار دور زدن دارند، و بخشی از مردم هم هنوز اساسا به اینترنت دسترسی ندارند.\n🔴\nدر این میان، آن‌هایی که در این مدت تن به اینترنت سفید، اینترنت پرو و این تبعیض ندادند، شرافتمندانه ایستادند. چون اینترنت طبقاتی فقط یک سرویس نیست؛ پذیرش رسمی تبعیض، کنترل و جداسازی مردم از یکدیگر است.\n💸\ntavaanatech",
-        "date": "2026-05-27T07:18:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "tavaanatech_47158_0_9a118019.jpg"
-          },
-          {
-            "type": "image",
-            "file": "tavaanatech_47158_1_8292b4d1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "tavaanatech_47158_2_86e60c78.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/tavaanatech/47158"
       }
     ],
     "whitedns": [
@@ -16252,6 +16254,27 @@
     ],
     "ZibaNabz": [
       {
+        "id": 24008,
+        "text": "🔴\nیه کانفیگ حجم 7000 گیگ زدم برا چند روز\nراحت باشین ، با سرعت عآلی متصل باشین عشق کنید خلاصه چنین ادمینی‌دارید\n😂\nحجم 7ترابایت\n💥\nزمان : نامحدود ‹\n🕙\n›\nسرعت اتصال : عالی\n😀\nمحدودیت اتصال کاربر ۱۰۰۰ نفر\n⭕️\nمناسب تمامی اوپراتور ها\n✅\n🌝\nکانفیگ ۷ روزه [رایگان]\n👇\n⚪️\nربات را استارت‌ کنید\n🔥\nhttps://t.me/RobateFiltere_Bot?start=_UWEPPCXDROKGNXG",
+        "date": "2026-06-07T10:20:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_24008_0_7151d18e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/RobateFiltere_Bot?start=_UWEPPCXDROKGNXG",
+            "type": "telegram",
+            "display_text": "https://t.me/RobateFiltere_Bot?start=_UWEPPCXDROKGNXG"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/ZibaNabz/24008"
+      },
+      {
         "id": 24007,
         "text": "سلام وقتتون بخیر و خوشی باشه انشالله\n🙂",
         "date": "2026-06-06T06:59:57+00:00",
@@ -18085,6 +18108,21 @@
     ],
     "echo_center": [
       {
+        "id": 6553,
+        "text": "vless://991898b1-426b-4108-9d11-188339714c53@168.100.8.115:443?mode=auto&path=%2Flokayb&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=ZqgdfgPqBr3zZuk4yw6Rtw5u1ar3pPBYooFil3IKzUw&host=168.100.8.115&fp=chrome&type=xhttp&sni=www.samsung.com&sid=4dc2accf4ae6#%40B2ray_NGbot\nاینم یکی دیگه\n@Echo_Center",
+        "date": "2026-06-07T10:17:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_6553_0_8d70d617.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/echo_center/6553"
+      },
+      {
         "id": 6552,
         "text": "ساب‌لینک نامحدود مناسب همه‌اپراتور‌ها با آپدیت خودکار\n✅\nhttps://raw.githubusercontent.com/masir-sefid/Sub/main/@Masir_Sefid.txt\nبرای راحتی، از Hiddify یا Karing استفاده کنید.\nاز سازنده‌اش حمایت کنید.\n@Masir_Sefid\n@Echo_Center",
         "date": "2026-06-07T10:14:08+00:00",
@@ -19866,30 +19904,28 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/echo_center/6434"
-      },
-      {
-        "id": 6431,
-        "text": "پروکسی، ضعیف اما متصل\n⭐️\nhttps://t.me/proxy?server=176.65.131.45&port=25565&secret=79e344818749bd7ac519130220c25d09\n@Echo_Center",
-        "date": "2026-05-27T09:17:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "echo_center_6431_0_4a2d90a1.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/proxy?server=176.65.131.45&port=25565&secret=79e344818749bd7ac519130220c25d09",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=176.65.131.45&port=25565&secret=79..."
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/echo_center/6431"
       }
     ],
     "Config_HATunnel": [
+      {
+        "id": 67598,
+        "text": "‏هوش اقتصادی هم‌وطن\nپاکستان اینترنتشو قطع کرده\nپروکسی\n|\nپروکسی\n|\nپروکسی\n|\nپروکسی\n|\n@Config_HATunnel",
+        "date": "2026-06-07T10:19:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_67598_0_74b9f613.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Config_HATunnel_67598_1_80f6e55f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/67598"
+      },
       {
         "id": 67597,
         "text": "خیلی ها تخمه آفتابگردان میخورن اما نمیدونن چه تاثیراتی روی بدن داره..\n😱\n😱\nمشاهده\n👉",
@@ -21944,24 +21980,58 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/67241"
-      },
+      }
+    ],
+    "apkclub": [
       {
-        "id": 67240,
-        "text": "فیلترشکن جامپ جامپ\nدانلود از گوگل پلی\n👉\n@Config_HATunnel",
-        "date": "2026-06-02T11:42:21+00:00",
+        "id": 70713,
+        "text": "پرامپت :\nCreate a clean, minimal, high-end facial aesthetic report based on the uploaded photo, using a black-on-white editorial design with thin linework, rounded cards, generous spacing, modern typography, and a refined luxury feel. Include an isolated front-facing image of the face, presented as an analytical attractiveness-assessment diagram. Provide an honest, objective evaluation of facial attractiveness potential, avoiding excessive flattery and focusing on symmetry, facial thirds, overall proportions, eye spacing and shape, nose harmony, lip proportions, jawline, chin, cheekbone structure, skin texture and tone, hairline, hairstyle, grooming, overall facial harmony, and photogenic potential. Assign clear, realistic scores to each major category, along with one overall attractiveness-potential score, keeping the ratings grounded, useful, and not artificially inflated. Include practical, achievable recommendations to improve attractiveness-potential, covering grooming, haircut, facial hair, skincare, eyebrow shaping, posture, weight loss, minor aesthetic procedures, styling, and photo presentation. Maintain a refined, direct, constructive tone that feels elegant, credible, and easy to understand, with an emphasis on actionable improvement that build on the subject\\'s existing strengths.\\n\\nAll visible text in the final report must be written in fluent Persian, with correct right-to-left layout, accurate Persian typography, clean spacing, and no English text anywhere.\n✳️\n@APKCLUB",
+        "date": "2026-06-07T10:33:02+00:00",
         "media": [
           {
             "type": "image",
-            "file": "Config_HATunnel_67240_0_e8790d91.jpg"
+            "file": "apkclub_70713_0_0aade643.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/Config_HATunnel/67240"
-      }
-    ],
-    "apkclub": [
+        "source": "https://t.me/apkclub/70713"
+      },
+      {
+        "id": 70712,
+        "text": "#هوش_مصنوعی\n#ترند\n📊\nگزارش زیبایی‌شناسی چهره با هوش\nمصنوعی\nعکس خود را در ChatGPT یا دیگر هوش مصنوعی ها آپلود کنید و پرامپت زیر را ارسال کنید.\n✳️\n@APKCLUB",
+        "date": "2026-06-07T10:31:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_70712_0_0aade643.jpg"
+          },
+          {
+            "type": "image",
+            "file": "apkclub_70712_1_a3c52a75.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/70712"
+      },
+      {
+        "id": 70710,
+        "text": "",
+        "date": "2026-06-07T10:27:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_70710_0_0aade643.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/70710"
+      },
       {
         "id": 70709,
         "text": "🌟\nDuolingo Super — 1 ماه رایگان\n🌍\nاز یک آیپی تمیز استفاده کنید\n🎁\nکد تخفیف:\nDUOBNBJUNE2026\n🍀\nبین‌نامبر:\n42588164442 | 07 | 27\n🤖\nربات ساخت کارت مجازی:\n@EagleGenBOT\n🔗\nلینک فعال‌سازی:\nduolingo.com/redeem\n📝\nروش دریافت:\n1. حتماً از یک آیپی تمیز استفاده کنید\n2. وارد لینک\nduolingo.com/redeem\nشوید\n3. کد\nDUOBNBJUNE2026\nرا وارد کنید\n4. اگر صفحه پرداخت آمد، با ربات\n@EagleGenBOT\nیک کارت مجازی با بین\n42588164442 | 07 | 27\nبسازید\n⚠️\nنکات مهم:\n- روی اکانت جدید یا اکانت قدیمی خودتان کار می‌کند\n- فقط اگر امسال از کد تخفیف دیگری استفاده نکرده باشید\n- معمولاً نیازی به کارت نیست — فقط کد کافی است\n🚀\nزود اقدام کنید. ۱ ماه Duolingo Super رایگان مال شما\n🎉\n#AMIRREJ\n#Duolingo\n#Method",
@@ -23676,55 +23746,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/apkclub/70597"
-      },
-      {
-        "id": 70596,
-        "text": "",
-        "date": "2026-06-01T12:27:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_70596_0_0985d4bb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/apkclub/70596"
-      },
-      {
-        "id": 70595,
-        "text": "💻\nPlus messenger\n➕\nAnti delete\n🔝\nV12.7.3.0\n⭐️\nنسخه مود پلاس مسنجر\n🔖\nویژگی های نسخه مود\n➕\nآنتی دیلیت :\n🔵\nامکان تغییر ایکون برنامه\n🔵\nافزایش سرعت لود برنامه\n🔵\nکانال اسپانسر پروکسی حذف شد\n🔵\nامکان ذخیره عکس و ویدئو در سکرت چت\n🔵\nقابلیت اسکرین شات و اسکرین رکورد در سکرت چت\n🔵\nمشاهده پست های کانال ها و گروه ها درصورت حذف\n🔵\nحذف نشدن چت های شخصی در صورت حذف دوطرفه\n🔵\nقابلیت اسکرین شات و اسکرین رکورد از پیام های تایمری\n🔵\nقابلیت کپی ، اسکرین شات ، اسکرین رکورد در کانال های محدود شده (فوروارد کار نمیکند)\n⭕️\nبرای فعال سازی آنتی دیلیت در این نسخه، در تنظیمات به بخش تلگرام بیزینس بروید و در انتهای صفحه گزینه آنتی دیلیت را روشن کنید.\n⚙️\nراهنمای فعال سازی آنتی دیلیت\n📱\nبرای دانلود فایل از ربات بر روی (\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
-        "date": "2026-06-01T10:30:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_70595_0_0985d4bb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "apkclub_70595_1_2d59d0ee.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/apkclub/70595"
-      },
-      {
-        "id": 70594,
-        "text": "",
-        "date": "2026-06-01T10:27:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_70594_0_0985d4bb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/apkclub/70594"
       }
     ],
     "FreakConfig": [
@@ -25699,23 +25720,23 @@
       }
     ]
   },
-  "last_update": "2026-06-07T10:15:38.613688+00:00",
+  "last_update": "2026-06-07T10:40:50.284845+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 1413,
-    "total_media": 1889,
-    "total_files": 1889,
-    "total_links": 472,
+    "total_posts": 1414,
+    "total_media": 1890,
+    "total_files": 1890,
+    "total_links": 473,
     "files_by_type": {
-      "image": 1789,
-      "video": 82,
+      "image": 1792,
+      "video": 80,
       "document": 15,
       "file": 1,
       "audio": 2
     },
-    "referenced_files": 1889,
-    "existing_media_files": 1889,
-    "total_size_mb": 437.59,
-    "last_calculation": "2026-06-07T10:15:38.636090+00:00"
+    "referenced_files": 1890,
+    "existing_media_files": 1890,
+    "total_size_mb": 438.24,
+    "last_calculation": "2026-06-07T10:40:50.303041+00:00"
   }
 }
