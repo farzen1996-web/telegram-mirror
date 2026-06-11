@@ -19723,6 +19723,21 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 67820,
+        "text": "💚\n#کانفیگ_SocksIP\nساکس آی پی\nلینک دانلود SocksIP از گوگل پلی\nتنظیمات مورد نیاز\n@Config_HATunnel",
+        "date": "2026-06-11T07:08:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_67820_0_71f0da5f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/67820"
+      },
+      {
         "id": 67819,
         "text": "#پروکسی_نت_ملی\nتلگرام سری پنجاه\nو دوم\n1)\nPROXY TELELGRAM @FREENET_CANFIG\n2)\nPROXY TELELGRAM @FREENET_CANFIG\n3)\nPROXY TELELGRAM @FREENET_CANFIG\n4)\nPROXY TELELGRAM @FREENET_CANFIG\n5)\nPROXY TELELGRAM @FREENET_CANFIG\n6)\nPROXY TELELGRAM @FREENET_CANFIG\n7)\nPROXY TELELGRAM @FREENET_CANFIG\n8)\nPROXY TELELGRAM @FREENET_CANFIG\n9)\nPROXY TELELGRAM @FREENET_CANFIG\n10)\nPROXYTELELGRAM @FREENET_CANFIG\n@Config_HATunnel",
         "date": "2026-06-11T05:09:54+00:00",
@@ -21683,21 +21698,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/Config_HATunnel/67546"
-      },
-      {
-        "id": 67543,
-        "text": "نپستر\n@Config_HATunnel",
-        "date": "2026-06-06T11:07:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_67543_0_e4cf4783.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/67543"
       }
     ],
     "apkclub": [
@@ -25961,7 +25961,7 @@
       }
     ]
   },
-  "last_update": "2026-06-11T06:59:02.470221+00:00",
+  "last_update": "2026-06-11T07:14:23.445602+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1448,
@@ -25978,6 +25978,6 @@
     "referenced_files": 1931,
     "existing_media_files": 1931,
     "total_size_mb": 284.01,
-    "last_calculation": "2026-06-11T06:59:02.489087+00:00"
+    "last_calculation": "2026-06-11T07:14:23.468478+00:00"
   }
 }
