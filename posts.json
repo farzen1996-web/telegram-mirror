@@ -10157,6 +10157,21 @@
     ],
     "IranintlTV": [
       {
+        "id": 345457,
+        "text": "🎧\nنسخه صوتی دومینو: تدارک نجومی حکومت برای مراسم دفن جلاد دی‌ماه\n@iranintlTV",
+        "date": "2026-07-02T19:05:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_345457_0_08579feb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/345457"
+      },
+      {
         "id": 345456,
         "text": "خبرگزاری فارس، وابسته به سپاه پاسداران، گزارش داد، خلیل حمدان، عضو ارشد جنبش امل لبنان و هیات همراه او که برای شرکت در مراسم تشییع جنازه علی خامنه‌ای به ایران سفر کرده‌اند، با محمدباقر قالیباف دیدار کردند.\nhttps://iranintl.com/202607028064",
         "date": "2026-07-02T18:42:40+00:00",
@@ -12276,31 +12291,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/345358"
-      },
-      {
-        "id": 345357,
-        "text": "سیامند از هامبورگ: مهم‌ترین درس برای مردم ایران این است که حالا می دانند آزادی واقعی چیست\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/yHZRWJ8mWLc\n@iranintltv",
-        "date": "2026-07-01T23:02:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_345357_0_08579feb.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_345357_1_0bf9121d.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/yHZRWJ8mWLc",
-            "type": "youtube",
-            "display_text": "https://youtu.be/yHZRWJ8mWLc"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/345357"
       }
     ],
     "tavaanatech": [
@@ -27573,21 +27563,21 @@
       }
     ]
   },
-  "last_update": "2026-07-02T18:57:11.333205+00:00",
+  "last_update": "2026-07-02T19:07:17.540546+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1604,
-    "total_media": 1853,
-    "total_files": 1853,
-    "total_links": 486,
+    "total_media": 1852,
+    "total_files": 1852,
+    "total_links": 485,
     "files_by_type": {
       "image": 1760,
-      "video": 89,
+      "video": 88,
       "document": 4
     },
-    "referenced_files": 1853,
-    "existing_media_files": 1853,
-    "total_size_mb": 474.45,
-    "last_calculation": "2026-07-02T18:57:11.355018+00:00"
+    "referenced_files": 1852,
+    "existing_media_files": 1852,
+    "total_size_mb": 471.21,
+    "last_calculation": "2026-07-02T19:07:17.564988+00:00"
   }
 }
