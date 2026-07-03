@@ -10221,6 +10221,44 @@
     ],
     "IranintlTV": [
       {
+        "id": 345517,
+        "text": "برخورد یک هواپیمای سبک با بلندترین و معروف‌ترین برج پکن با سانسور گسترده خبری از سوی مقام‌های چین همراه شده  و با وجود تلاش برای محدود کردن انتشار اخبار، گزارش‌ها و تصاویری از این حادثه منتشر شده است.\nگزارش توماج طاهباز، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-07-03T05:34:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_345517_0_70a3f162.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_345517_1_1644a588.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/345517"
+      },
+      {
+        "id": 345516,
+        "text": "روز جمعه رای دادگاه اولد بیلی لندن درباره مهاجمان پوریا زراعتی، خبرنگار ایران‌اینترنشنال صادر خواهد شد. انتظار می‌رود مهاجمان به حبس محکوم شوند؛ حکمی که می‌تواند نشانه حمایت از آزادی رسانه‌ها و پیامی قاطع برای عاملان حمله به خبرنگاران باشد\n@iranintltv",
+        "date": "2026-07-03T05:17:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_345516_0_70a3f162.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_345516_1_38525d2e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/345516"
+      },
+      {
         "id": 345515,
         "text": "شورای امنیت سازمان ملل متحد به درخواست بحرین و در پی حمله اخیر جمهوری اسلامی به این کشور تشکیل جلسه داد. وزیر خارجه بحرین گفت ادعای حکومت ایران درباره هدف قرار ندادن غیرنظامیان با واقعیت‌های میدانی همخوانی ندارد.\nگزارش مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-07-03T05:09:32+00:00",
@@ -12381,50 +12419,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/345402"
-      },
-      {
-        "id": 345401,
-        "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان‌دهنده وضعیت آلودگی هوای شهر کرمان در پنجشنبه ۱۱ تیرماه است.\nایرنا، خبرگزاری جمهوری اسلامی، روز سه‌شنبه اعلام کرده بود که کیفیت هوا در پهنه‌های وسیعی از استان کرمان به مرزهای «بحرانی و خطرناک» رسیده‌اند.",
-        "date": "2026-07-02T10:02:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_345401_0_08579feb.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_345401_1_346b0e72.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/345401"
-      },
-      {
-        "id": 345400,
-        "text": "ضیاءالدین آقاجانپور، رییس سازمان عقیدتی ـ سیاسی وزارت دفاع جمهوری اسلامی، پنجشنبه  ۱۱ تیر در سیزدهمین کنفرانس بین‌المللی «حقوق بشر آمریکایی از دیدگاه رهبر شهید» که در ایوان شمس برگزار شد، گفت اگر آمریکا اهل منطق باشد، «ما هم پایبند به آن هستیم»، اما اگر چنین نباشد، «دست ما هم بر ماشه است و سیلی سخت و پشیمان‌کننده‌ای به آنها خواهیم زد.»\nآقاجانپور گفت توان دفاعی جمهوری اسلامی و حضور مردم باعث شد آمریکا و اسرائیل درخواست آتش‌بس بدهند. او افزود جمهوری اسلامی به عهد و پیمان آمریکا اعتمادی ندارد.\nhttps://iranintl.com/202607027944",
-        "date": "2026-07-02T09:57:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_345400_0_08579feb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_345400_1_0a54ec0f.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607027944",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607027944"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/345400"
       }
     ],
     "tavaanatech": [
@@ -16457,6 +16451,48 @@
     ],
     "ZibaNabz": [
       {
+        "id": 24225,
+        "text": "🔻\nکد تخفیف 15 درصد جهت خرید یا تمدید سرویس :\noffer15\n🟢\n15 درصد تخفیف برای 100 نفر اول جهت خرید یا تمدید سرویس\n🐦\nزودتر از بقیه میتونید کد تخفیف رو وارد کنید و از این تخفیف بهره مند بشید.\nربات رو استارت کنید [\n@v2rayngsazzbot\n]\nامروز رو با کد 15 درصد تخفیف ، خریدتونو انجام بدین .",
+        "date": "2026-07-03T05:41:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_24225_0_4a20fcb0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "ZibaNabz_24225_1_9743036a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "ZibaNabz_24225_2_794d96fc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "ZibaNabz_24225_3_73e7d029.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/24225"
+      },
+      {
+        "id": 24224,
+        "text": "سلام صبح همه عزیزان بخیر\nروزتون پر از برکت و رحمت خداوند انشالله",
+        "date": "2026-07-03T05:41:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_24224_0_4a20fcb0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/24224"
+      },
+      {
         "id": 24221,
         "text": "حمید رسایی نماینده مجلس : طرحی جدید و فوری برای قطع اینترنت بین المللی بدلیل حفظ جان رهبر و فرماندهان در جز اولین اولویت های مجلس قرار خواهد گرفت",
         "date": "2026-07-02T17:30:02+00:00",
@@ -18101,48 +18137,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/ZibaNabz/24051"
-      },
-      {
-        "id": 24050,
-        "text": "کانفیگ V2ray تانل شده 5 ترابایت خریداری شد و  مخصوص نت ملی داخل ربات قرار داد شد\n💀\nدریافت کانفیگ تانل شده رایگان  از ربات:\n👇\nتعداد محدود\n🔥\n🔥\n🔥\nhttps://t.me/RobateFiltere_Bot?start=_RIYWGASXJJNAIBP",
-        "date": "2026-06-09T22:28:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ZibaNabz_24050_0_a04203c2.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/RobateFiltere_Bot?start=_RIYWGASXJJNAIBP",
-            "type": "telegram",
-            "display_text": "https://t.me/RobateFiltere_Bot?start=_RIYWGASXJJNAIBP"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/ZibaNabz/24050"
-      },
-      {
-        "id": 24049,
-        "text": "کانفیگ V2ray تانل شده\n5 ترابایت\nخریداری شد و\nمخصوص نت ملی\nداخل ربات قرار داد شد\n💀\nدریافت کانفیگ تانل شده\nرایگان\nاز ربات:\n👇\nتعداد محدود\n🔥\n🔥\n🔥\nhttps://t.me/RobateFiltere_Bot?start=_RIYWGASXJJNAIBP",
-        "date": "2026-06-09T22:24:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ZibaNabz_24049_0_a04203c2.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/RobateFiltere_Bot?start=_RIYWGASXJJNAIBP",
-            "type": "telegram",
-            "display_text": "https://t.me/RobateFiltere_Bot?start=_RIYWGASXJJNAIBP"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/ZibaNabz/24049"
       }
     ],
     "echo_center": [
@@ -19784,6 +19778,32 @@
       }
     ],
     "Config_HATunnel": [
+      {
+        "id": 68919,
+        "text": "https://t.me/proxy?server=167.233.18.41&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nhttps://t.me/proxy?server=37.27.89.35&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ntg://proxy?server=87.248.132.4&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0\ntg://proxy?server=87.248.132.201&port=1010&secret=dd79e7010200010007f0030386e24c3add\ntg://proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0\n@Config_HATunnel",
+        "date": "2026-07-03T05:29:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_68919_0_425f4c48.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=167.233.18.41&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=167.233.18.41&port=8080&secret=YyE..."
+          },
+          {
+            "url": "https://t.me/proxy?server=37.27.89.35&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=37.27.89.35&port=8080&secret=YyEEg..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Config_HATunnel/68919"
+      },
       {
         "id": 68913,
         "text": "♣️\nنپستر\n@Config_HATunnel",
@@ -21651,16 +21671,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/68684"
-      },
-      {
-        "id": 68683,
-        "text": "⚡️\nکانفیگ نپستر\nPass: (رمز)\n👇\n@HTTPinjectorcustom\n〽️\nمناسب همه اپراتورها\n🔴\nپروکسی های مخصوص ایرانسل و رایتل و برخی از خطوط همراه اول و مودم\nپروکسی مخصوص ایرانسل و رایتل 1\nپروکسی مخصوص ایرانسل و رایتل 2\nپروکسی مخصوص ایرانسل و رایتل 3\nپروکسی مخصوص ایرانسل و رایتل 4\nپروکسی مخصوص ایرانسل و رایتل 5\nپروکسی مخصوص ایرانسل و رایتل 6\nپروکسی مخصوص ایرانسل و رایتل7\nپروکسی مخصوص ایرانسل و رایتل 8\nپروکسی مخصوص ایرانسل و رایتل 9\nپروکسی مخصوص ایرانسل و رایتل 10\n@Config_HATunnel",
-        "date": "2026-06-28T09:36:53+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/68683"
       }
     ],
     "apkclub": [
@@ -23480,6 +23490,21 @@
     ],
     "FreakConfig": [
       {
+        "id": 8236,
+        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇨🇦\n🇺🇸\n🇩🇪\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?security=reality&encryption=none&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=205f8d#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn11.sudonetwork.com:443?mode=stream-one&path=%2Fmahdiisalivedkllksdhlkv6468464%40&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dustream.hediehjavani.com#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://cb9e1505-01eb-4d35-9840-17128da04d93@169.40.32.129:443?security=reality&encryption=none&pbk=eg1Br2itpx7DM1ICrT7p7SRmefGONSHQtRQURGV-AWg&headerType=http&fp=chrome&spx=%2FwhPCy1cgE9E5zP6&type=tcp&sni=www.yahoo.com&sid=6a#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn6.sudonetwork.com:443?mode=stream-one&path=%2Fmahdiisalivedkllksdhlkv6468464%40&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dustream.hediehjavani.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTjN4VUtlSUw1eXExNG9V@20.164.212.70:443#%F0%9F%87%BF%F0%9F%87%A6%20%40FreakConfig\nvless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn.fonix1.com:443?mode=stream-one&path=%2Fmahdiisalivedkllksdhlkv6468464%40&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dustream.hediehjavani.com#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig\nvless://3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2@ansooyefilter-channel.up.railway.app:443?path=%2Fws%2F3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ansooyefilter-channel.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter-channel.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
+        "date": "2026-07-03T05:37:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_8236_0_a153c290.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/FreakConfig/8236"
+      },
+      {
         "id": 8235,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇯🇵\n🇨🇦\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://1deea0b5-7ea7-4b40-ae73-81a9d59824a0@198.41.208.172:2083?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=GGMMDDE2.FOLLOWERARZON1.COM&fp=chrome&type=xhttp&allowInsecure=0&sni=GGMMDDE2.FOLLOWERARZON1.COM#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowc2FiVVY1X0gwUkgyaUpGRXRqSTJuSjAyVTNTaVFSOA@bot.sobhanpor.ir:1080#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6d21obklzRWFyX25GS21icWhfeUdtVnNhRUx5bWp1Qw@bot.sobhanpor.ir:1080#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig\nvless://0b98e40b-996a-41bc-8503-4f0772a293d5@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig\nvless://1b969107-0c23-4735-bab0-b66d29dcdd92@2.144.23.70:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig\nvless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=%2Fsalsaserver&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig\nvless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://7bcb31de-f8f1-4e93-a792-0144c05c6cfa@116.206.92.49:443?security=reality&encryption=none&pbk=gRKqowCAdlhBh9gKYv1S3kQERkqtpWmCFS-NqLBKw3s&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=9fc3dfda8bca19c2#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-07-02T21:30:23+00:00",
@@ -25113,21 +25138,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/FreakConfig/8131"
-      },
-      {
-        "id": 8130,
-        "text": "یه کانفیگ الجزیره برسونید آقا",
-        "date": "2026-06-28T04:37:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_8130_0_ea5e8c86.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/FreakConfig/8130"
       }
     ],
     "configraygan": [
@@ -27727,21 +27737,21 @@
       }
     ]
   },
-  "last_update": "2026-07-03T05:13:52.546431+00:00",
+  "last_update": "2026-07-03T06:02:40.943040+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1604,
-    "total_media": 1879,
-    "total_files": 1879,
-    "total_links": 492,
+    "total_media": 1883,
+    "total_files": 1883,
+    "total_links": 491,
     "files_by_type": {
-      "image": 1795,
-      "video": 81,
+      "image": 1798,
+      "video": 82,
       "document": 3
     },
-    "referenced_files": 1879,
-    "existing_media_files": 1879,
-    "total_size_mb": 397.83,
-    "last_calculation": "2026-07-03T05:13:52.569236+00:00"
+    "referenced_files": 1883,
+    "existing_media_files": 1883,
+    "total_size_mb": 401.16,
+    "last_calculation": "2026-07-03T06:02:40.964785+00:00"
   }
 }
