@@ -19747,6 +19747,40 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 70854,
+        "text": "قدر زندگی در کنار خانواده تون رو بدونید! مخصوصا اونجاها که یکی صداتون میکنه:\nپاشو بیا سر سفره،\nچایی میخوری برات بیارم؟\nمیوه میخوری؟\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
+        "date": "2026-08-07T04:24:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_70854_0_307bc93b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/70854"
+      },
+      {
+        "id": 70853,
+        "text": "صبحتون عسلی\n😍\n😂\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
+        "date": "2026-08-07T04:13:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_70853_0_307bc93b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "Config_HATunnel_70853_1_0d0e4312.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/70853"
+      },
+      {
         "id": 70852,
         "text": "🦋\nاگه اهل داستانی جوین شو\n📚",
         "date": "2026-08-06T22:09:49+00:00",
@@ -21619,36 +21653,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70637"
-      },
-      {
-        "id": 70636,
-        "text": "🔞\n《مایع منی 》در زنان چگونه است\n⁉️\nمشاهده فیلم\n👉\n😒\n❤️",
-        "date": "2026-08-02T11:41:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70636_0_0b57b87e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/70636"
-      },
-      {
-        "id": 70635,
-        "text": "۲ جا\nمیل جنسی زن بشدت\nزیاد میشه\nمیل جنسی زن،در این دو زمان به اوج میرسه\nخوبه که بدونی و اقدامی کنی\nمشاهده\n➡️",
-        "date": "2026-08-02T11:41:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70635_0_0b57b87e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/70635"
       }
     ],
     "apkclub": [
@@ -27374,21 +27378,21 @@
       }
     ]
   },
-  "last_update": "2026-08-07T03:47:11.117678+00:00",
+  "last_update": "2026-08-07T04:39:44.193576+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1625,
-    "total_media": 1886,
-    "total_files": 1886,
+    "total_media": 1887,
+    "total_files": 1887,
     "total_links": 383,
     "files_by_type": {
       "image": 1791,
-      "video": 94,
+      "video": 95,
       "audio": 1
     },
-    "referenced_files": 1886,
-    "existing_media_files": 1886,
-    "total_size_mb": 424.84,
-    "last_calculation": "2026-08-07T03:47:11.140426+00:00"
+    "referenced_files": 1887,
+    "existing_media_files": 1887,
+    "total_size_mb": 433.79,
+    "last_calculation": "2026-08-07T04:39:44.216541+00:00"
   }
 }
