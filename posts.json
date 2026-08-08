@@ -9899,6 +9899,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 351662,
+        "text": "عبدالناصر همتی، رییس کل بانک مرکزی، در واکنش به تحریم صرافی‌های رمزارزی از سوی آمریکا، گفت: «آمریکایی‌ها مدام اعلام می‌کنند فلان تراستی یا صرافی رمزارز را بستیم، این ادعاها خوراک تبلیغاتی آمریکایی‌هاست. این‌ها هیچ ارتباطی با ما ندارند و پول‌هایی که جابه‌جا کرده‌ایم دست خودمان است و در حال استفاده از آن‌ها هستیم.»\nهمتی اضافه کرد: «امسال حتی بیشتر از دوره مشابه سال قبل ارز تامین کرده‌ایم.»\nhttps://iranintl.com/202608087181",
+        "date": "2026-08-08T17:52:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351662_0_9888e163.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351662_1_7c18b2d0.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608087181",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608087181"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351662"
+      },
+      {
         "id": 351661,
         "text": "فرزین ندیمی، کارشناس امور دفاعی و امنیتی، گفت جمهوری اسلامی همچنان بر خروج نیروهای آمریکایی از منطقه پافشاری می‌کند و این موضوع یکی از محورهای اصلی اختلاف با واشینگتن است.\n@iranintltv",
         "date": "2026-08-08T17:27:07+00:00",
@@ -11940,25 +11965,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351559"
-      },
-      {
-        "id": 351558,
-        "text": "یک مقام آمریکایی به رویترز گفت مذاکرات ایران و عمان درباره تنگه هرمز در حال پیشرفت است و واشینگتن انتظار دارد به‌زودی توافقی در این زمینه حاصل شود.\nاین مقام افزود پس از اعلام توافق برای از سرگیری عبور بدون مانع کشتی‌های تجاری از تنگه هرمز، ایالات متحده محاصره دریایی ایران را لغو خواهد کرد.\nجزییات بیشتر با اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-07T22:32:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351558_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351558_1_3a3bbc7a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351558"
       }
     ],
     "tavaanatech": [
@@ -23473,6 +23479,21 @@
     ],
     "FreakConfig": [
       {
+        "id": 9023,
+        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇺🇸\n🇩🇪\n🇨🇦\nvless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.106:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://a7997776-e24e-4af3-9b3a-c38b38ca1f32@107.150.5.141:56159?security=reality&encryption=none&pbk=VQDDmVrsbZDtj8s8wEWNV2V-FPb8etiaeHkJO4MPAAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9ab441e5#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://a2a1f0c1-55e9-4b9a-9b58-4b254e93679b@marzban-node-production-b2df.up.railway.app:443?path=%2Fvless&security=tls&alpn=h2&encryption=none&insecure=0&host=marzban-node-production-b2df.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=marzban-node-production-b2df.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nss://YWVzLTI1Ni1nY206T0dVeE5qVTFNRE00WVRZell6TmxOV1l4TUdZMVlqUXlaamsxWW1Saw@95.38.187.71:9147#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@download.yunzhongzhuan.com:8880?path=%2Fpyip&security=none&encryption=none&host=steep-thunder-97fa.108-d10.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=mmad&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n⚡\n@FreakConfig",
+        "date": "2026-08-08T17:33:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_9023_0_1e937058.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/FreakConfig/9023"
+      },
+      {
         "id": 9022,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇦🇪\n🇺🇸\n🔌\nوضعیت : متصل تا زمان فیلتر\nvmess://eyJhZGQiOiJwcm8ubXp3ZWJtLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkbDNuYW1lLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldCIsImlkIjoiZjIxZDI3YWUtNjQxMi00ZDRhLTg3OGQtYTVlZGM1MWNmMDQzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpcG1heCIsInBvcnQiOiI4MCIsInBzIjoi8J+HuvCfh7hARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=\nvless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@89.47.55.4:443?mode=auto&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%F0%9F%87%A6%F0%9F%87%AA%40FreakConfig\nhysteria2://pjyFpMEKFH@185.253.117.217:443?security=tls&obfs=salamander&obfs-password=TelEgRam%3DV2RayyNGvpn&insecure=1&pinSHA256=6e630338f6b8432a50db80988e00002c669ca0306c64d1856daa6e89a1bc6c3b&sni=www.intel.com#%F0%9F%87%A7%F0%9F%87%AD%40FreakConfig\nvless://a104a6c1-f725-467c-9701-6fe5d16b4ce8@pro.polnejat.ir:2053?security=reality&encryption=none&pbk=DaN-Oyl858Ok1XvkHIzYsbBeKstn0OpHf5a98etuFC4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4eab4c26#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig\nvmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6ImJkMDc5NDUzLTMzOWQtNGMxZi04ODU5LTkyZTNlNzAyOWFiZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZFx1MDAzZD8yMDQ4IiwicG9ydCI6IjgwODAiLCJwcyI6IvCfh6jwn4emQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9\nvless://fba7da11-1d4e-4c74-9a90-fe290eb9539d@new.frizan.ir:2019?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-08-08T15:33:09+00:00",
@@ -25155,21 +25176,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/FreakConfig/8921"
-      },
-      {
-        "id": 8920,
-        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇨🇦\n🇫🇮\n🇺🇸\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@104.21.19.53:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=usa-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&allowInsecure=1&sni=2-----l-jo--hMiTiVPN---MiTiVPN-o--mitivpn.KinGNetWork.iR#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@45.80.108.182:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=Fls1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&allowInsecure=1&sni=ii--6---6--MiTiVPN---MiTiVPN-o.KinGNetWork.iR#%F0%9F%87%AA%F0%9F%87%AA%40FreakConfig\nvless://e338fc24-d7d5-de46-6814-b6e712ce2ff3@69.46.46.100:443?path=%2Fws%2Fe338fc24-d7d5-de46-6814-b6e712ce2ff3&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-984a.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-984a.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://25934f65-801b-13d4-3246-55258dee8fd3@69.46.46.120:443?path=%2Fws%2F25934f65-801b-13d4-3246-55258dee8fd3&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-56f3.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-56f3.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://8c9d907e-f09a-31bc-be54-1d83dfd06363@69.46.46.110:443?path=%2Fws%2F8c9d907e-f09a-31bc-be54-1d83dfd06363&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-02bc.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-02bc.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://29ca503d-e6b8-4509-b666-48133f450857@cmcc.877774.xyz:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://003825d0-502f-4948-bf4e-b2bedd6ba307@116.202.13.37:47116?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://ee60f92c-de7d-4ad8-9fe2-25e0a0d80c75@pi.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig\nvless://4ca31b44-9188-4cc7-adc6-f940888e5282@s7.cnavippanel-tech-ips.xyz:8090?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
-        "date": "2026-08-03T14:11:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_8920_0_78b3f850.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/FreakConfig/8920"
       }
     ],
     "configraygan": [
@@ -27528,21 +27534,21 @@
       }
     ]
   },
-  "last_update": "2026-08-08T17:28:57.877647+00:00",
+  "last_update": "2026-08-08T17:59:21.820937+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1626,
     "total_media": 1876,
     "total_files": 1876,
-    "total_links": 428,
+    "total_links": 429,
     "files_by_type": {
-      "image": 1766,
-      "video": 109,
+      "image": 1767,
+      "video": 108,
       "audio": 1
     },
     "referenced_files": 1876,
     "existing_media_files": 1876,
-    "total_size_mb": 453.58,
-    "last_calculation": "2026-08-08T17:28:57.900745+00:00"
+    "total_size_mb": 451.29,
+    "last_calculation": "2026-08-08T17:59:21.842450+00:00"
   }
 }
