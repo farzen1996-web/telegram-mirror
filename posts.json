@@ -23251,6 +23251,25 @@
     ],
     "FreakConfig": [
       {
+        "id": 9009,
+        "text": "",
+        "date": "2026-08-08T04:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_9009_0_c3c1d5fd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "FreakConfig_9009_1_c5bbb3ab.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/FreakConfig/9009"
+      },
+      {
         "id": 9008,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇩🇪\n🇺🇸\n🔌\nوضعیت : متصل تا زمان فیلتر\nvmess://eyJhZGQiOiIxODUuMTczLjEwNC43OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNGIzNjM5MS0wMTRmLTQ0NjItODA5Yy04ZTY0YWE4NDM1OWUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1Byb3h5X1N0YXRpb24vIiwicG9ydCI6IjIwMzAiLCJwcyI6IvCfh6nwn4eqQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==\nvless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@5.231.18.206:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=edge&type=tcp&sni=monalisgame.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%40FreakConfig\ntrojan://e6975922-245b-4507-8d12-61b3a5434bc4@69.46.46.208:443?path=%2Fws%2Ftrojan%2Fe6975922-245b-4507-8d12-61b3a5434bc4%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=ezaccess1-luffy-ezaccess1-ab56.up.railway.app&fp=edge&type=ws&allowInsecure=0&sni=ezaccess1-luffy-ezaccess1-ab56.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.166:62145?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B4%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-08-08T02:30:41+00:00",
@@ -24929,21 +24948,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/FreakConfig/8907"
-      },
-      {
-        "id": 8906,
-        "text": "این بازی خیلی این روزا ترند\n😍\nراحت میتونی پولت چند برابر کنی\n💖\nفرصت از دست ندین فیلم بازی نگاه کنید و شروع کنید\n😁\n💵",
-        "date": "2026-08-02T21:28:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_8906_0_f3dff712.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/FreakConfig/8906"
       }
     ],
     "configraygan": [
@@ -27302,21 +27306,21 @@
       }
     ]
   },
-  "last_update": "2026-08-08T03:44:15.260619+00:00",
+  "last_update": "2026-08-08T04:07:33.291158+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1625,
-    "total_media": 1857,
-    "total_files": 1857,
+    "total_media": 1858,
+    "total_files": 1858,
     "total_links": 402,
     "files_by_type": {
       "image": 1756,
-      "video": 100,
+      "video": 101,
       "audio": 1
     },
-    "referenced_files": 1857,
-    "existing_media_files": 1857,
-    "total_size_mb": 476.12,
-    "last_calculation": "2026-08-08T03:44:15.283062+00:00"
+    "referenced_files": 1858,
+    "existing_media_files": 1858,
+    "total_size_mb": 477.87,
+    "last_calculation": "2026-08-08T04:07:33.313900+00:00"
   }
 }
