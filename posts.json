@@ -9497,6 +9497,21 @@
     ],
     "IranintlTV": [
       {
+        "id": 352613,
+        "text": "سام اصغری، بازیگر و مدل، در این گفت‌وگوی ویژه با ایران‌اینترنشال از فراز و نشیب زندگی شخصی و حرفه‌ای اش می‌گوید. لازم به ذکر است که این گفت‌وگو پیش از اعتراضات دی‌ماه و کشتار خونین معترضان در ۱۸ و ۱۹ دی‌ماه انجام شده است. نسخه کامل این گفت‌وگو را در یوتیوب…",
+        "date": "2026-08-14T23:27:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352613_0_7d4cc388.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352613"
+      },
+      {
         "id": 352612,
         "text": "مسعود پزشکیان در دیدار هفته گذشته با دبیران احزاب سیاسی، از کاهش درآمدهای نفتی، افزایش هزینه واردات و خسارت واردشده به کارخانه‌ها خبر داد و گفت: نمی‌توانیم نفت بفروشیم. ویدیوهای این نشست به‌تازگی منتشر شد.\n@iranintltv",
         "date": "2026-08-14T23:03:55+00:00",
@@ -11550,25 +11565,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352498"
-      },
-      {
-        "id": 352497,
-        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال، ضمن انتقاد از قیمت بالای اقلام خوراکی مانند شیر پاستوریزه و غلات صبحانه، این گرانی را «باورنکردنی» توصیف کرد.",
-        "date": "2026-08-14T08:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352497_0_fd5357d7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352497_1_80bbc05d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352497"
       }
     ],
     "tavaanatech": [
@@ -13560,6 +13556,31 @@
       }
     ],
     "whitedns": [
+      {
+        "id": 1474,
+        "text": "🚀\nانتشار WhiteDNS Clean IP Finder 1.3.7\nنسخه جدید WhiteDNS Clean IP Finder با تمرکز روی افزایش سرعت پیدا کردن DNS Resolverهای سالم در Desktop و Android منتشر شد.\n⚡️\nمهم‌ترین تغییرات:\n• اجرای همزمان تست‌های DNS Transport و TXT Passthrough برای کاهش Timeout\n• اجرای Parallel بررسی‌های NXDOMAIN Hijack\n• اضافه شدن Fast Scan با حفظ بررسی‌های اصلی A Record، Recursion، EDNS و TXT Tunnel\n• حفظ Full Scan به‌عنوان حالت پیش‌فرض برای بررسی کامل\n• بهبود دریافت و Cache اطلاعات Reference DNS\n• اضافه شدن UDP/53 Only و TCP/53 Only در Android\n• گزارش دقیق‌تر DNS Poisoning، Injection و Hijack\n• بروزرسانی دیتابیس Iran & Global ASN شامل IPv4 و IPv6\n💻\nپشتیبانی از Windows، Linux، macOS و Termux\n📱\nنسخه Android شامل APKهای مختلف، Universal APK\n✅\nبرای آپدیت نیازی به تغییر تنظیمات قبلی نیست.\n📥\nدانلود WhiteDNS Clean IP Finder 1.3.7:\nhttps://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases/tag/v1.3.7\n⚡️\nWhiteDNS Clean IP Finder — اسکن سریع‌تر، تشخیص دقیق‌تر و دیتابیس به‌روزتر\n@whitedns",
+        "date": "2026-08-14T23:19:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1474_0_f5b8da26.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1474_1_09696b53.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases/tag/v1.3.7",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1474"
+      },
       {
         "id": 1473,
         "text": "⏯️\nآموزش ساخت کانفیگ V2Ray با سرور رایگان!   توی این آموزش با استفاده از Wasmer یه سرور رایگان می‌سازیم و در نهایت بدون نیاز به خرید سرور، ۳ تا کانفیگ V2Ray برای مصرف شخصی دریافت می‌کنیم.\n⚡️\n⏯️\nتماشا در یوتیوب  https://youtu.be/EAjOhvuMw8Q",
@@ -15612,21 +15633,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1322"
-      },
-      {
-        "id": 1321,
-        "text": "White DNS\npinned a photo",
-        "date": "2026-07-26T08:13:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1321_0_87dc8eeb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1321"
       }
     ],
     "ZibaNabz": [
@@ -19066,6 +19072,21 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 71232,
+        "text": "باشد که رها شویم، از رنجی که از آنِ ما نیست\n🕊\n03:03",
+        "date": "2026-08-14T23:33:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_71232_0_5e0d5770.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/71232"
+      },
+      {
         "id": 71231,
         "text": "آموزش رایگان ادمینی اینستاگرام و تلگرام  :\n💙",
         "date": "2026-08-14T23:02:09+00:00",
@@ -20524,16 +20545,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/71094"
-      },
-      {
-        "id": 71093,
-        "text": "امیدوارم امروز وقتی بیدار می‌شی، زندگی یه گوشه‌ قشنگشو نشونت\nبده…\nهمون چیزی که این روزا دلت آرزوشو\nداره\n❤️\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
-        "date": "2026-08-12T05:19:31+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/71093"
       }
     ],
     "apkclub": [
@@ -26237,22 +26248,22 @@
       }
     ]
   },
-  "last_update": "2026-08-14T23:16:20.198043+00:00",
+  "last_update": "2026-08-14T23:50:24.357930+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1636,
-    "total_media": 1688,
-    "total_files": 1688,
-    "total_links": 333,
+    "total_media": 1689,
+    "total_files": 1689,
+    "total_links": 334,
     "files_by_type": {
-      "image": 1577,
-      "video": 108,
+      "image": 1579,
+      "video": 107,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1688,
-    "existing_media_files": 1688,
-    "total_size_mb": 490.63,
-    "last_calculation": "2026-08-14T23:16:20.218106+00:00"
+    "referenced_files": 1689,
+    "existing_media_files": 1689,
+    "total_size_mb": 486.63,
+    "last_calculation": "2026-08-14T23:50:24.377820+00:00"
   }
 }
