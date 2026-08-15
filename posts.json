@@ -9513,6 +9513,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 352660,
+        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد عصر جمعه ۲۳ مرداد در اطراف پالایشگاه شهر ری دود ناشی از آتش‌سوزی دیده شده است.",
+        "date": "2026-08-15T09:59:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352660_0_7d4cc388.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352660_1_c058c361.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352660"
+      },
+      {
         "id": 352659,
         "text": "🔻\nدرحالی که گفته شده استقلال و پرسپولیس روزهای ۱۱ یا ۱۲ شهریور ۱۴۰۵، در جریان هفته پنجم لیگ برتر،‌ دربی پایتخت را برگزار می‌کنند، اما خبرگزاری آنا گزارش داده این بازی اگر در تهران برگزار شود، به دلیل مخالفت شورای تامین «شهر قدس» در استادیوم قلعه‌حسن‌خان، بدون تماشاگر خواهد بود.\n🔹\nبه نوشته این خبرگزاری، «شورای تامین شهر قدس به سازمان لیگ اعلام کرده است که در صورت برگزاری دربی در شهر قدس، این دیدار بایستی بدون حضور هواداران برگزار شود که این موضوع با مخالفت سازمان لیگ روبرو شده است.»\n🔹\nدر دو سال‌ گذشته و به دلیل بازسازی بی‌انتهای استادیوم آزادی، دربی تهران در اراک برگزار شده است. اما اکنون به نظر می‌رسد گزینه اراک از روی میز برداشته شده، به نوشته آنا، «سازمان لیگ قصد دارد دربی را در یکی از سه شهرِ مشهد، اصفهان و تبریز برگزار کند.»\n🔹\nباوجود اینکه بازسازی سکوها و سازه استادیوم آزادی در مراحل پایانی است، اما چند هفته پیش از شروع لیگ برتر، وزارت ورزش دولت جمهوری اسلامی، چمن استادیوم آزادی را به بهانه کاشت چمن هیبریدی، جمع‌آوری کرد. گفته شده آزادی حداقل در نیم‌فصل اول، در دسترس نخواهد بود.\n@iranintltvsport",
         "date": "2026-08-15T09:42:55+00:00",
@@ -11576,25 +11595,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352545"
-      },
-      {
-        "id": 352544,
-        "text": "سارا بازوبندی، کارشناس اقتصادی، درباره فعالیت‌های مالی علی انصاری و ارتباط او با شبکه‌های اقتصادی جمهوری اسلامی به ایران‌اینترنشنال گفت ارتباط انصاری با مجتبی خامنه‌ای اهمیت زیادی دارد، اما تنها «نوک کوه یخ» شبکه گسترده فساد و پول‌شویی در جمهوری اسلامی است.\nبه گفته او، آمریکا و کشورهای اروپایی سال‌هاست اطلاعاتی درباره این شبکه‌ها دارند و ممکن است در ادامه، با هدف افزایش فشار بر جمهوری اسلامی، فهرست افراد و شرکت‌های مرتبط با شبکه‌های مالی حکومت را هدف قرار دهند.\n@iranintltv",
-        "date": "2026-08-14T14:11:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352544_0_7d4cc388.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352544_1_673f4634.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352544"
       }
     ],
     "tavaanatech": [
@@ -13586,6 +13586,31 @@
       }
     ],
     "whitedns": [
+      {
+        "id": 1476,
+        "text": "WhiteAesther V1.0.2\nدوستان سلام :\nما روی هسته Aether که حاصل زحمت دوست عزیزمون\nCluvexStudio\nهست یک کلاینت**\nآزمایشی ورژن بتا\n** درست کردیم . که اگر دوست دارید تست کنید و لطف کنید فیدبک بدید.\nپیشاپیش ممنونیم\n❤️\n❤️\n❤️\nاموزش :\n📖\n**راهنمای WhiteAesther**\n**۱ — نصب**\nفایل **arm64-v8a** رو بگیر (تقریباً همه گوشی‌های ۲۰۱۷ به بعد).\nمطمئن نیستی؟ **universal** همه‌جا کار می‌کنه، فقط حجمش بیشتره.\n**۲ — سه تا نکته اول**\n▪️\n**Traffic** → گزینه Coverage روی **Whole device** باشه\n⚠️\nحالت Proxy only خودش هیچی رو رد نمی‌کنه! به‌نظر می‌رسه وصل شده ولی عملاً هیچ ترافیکی از تونل نمی‌ره.\n▪️\n**Routes** → پروفایل روی **Adaptive**\n▪️\n**Settings** → اجازه اجرا در پس‌زمینه رو بده، وگرنه با خاموش شدن صفحه قطع می‌شه\n**۳ — اگه وصل نشد، به این ترتیب امتحان کن**\n**قدم ۱ — پروتکل**\nRoutes → Advanced → Preferred transport → **MASQUE over HTTP/2**\n📌\nروی **همراه اول** مدتیه QUIC (یعنی UDP) کاملاً بسته شده. یعنی H3 اصلاً وصل نمی‌شه و فقط H2 جواب می‌ده.\nاز نسخه ۱.۰.۲ اپ خودش این کار رو می‌کنه.\n**قدم ۲ — تیکه‌تیکه کردن TLS**\n⭐️\nTraffic → Advanced → **Split the TLS handshake** → روشن\nفیلترینگ معمولاً فقط تیکه اول بسته رو می‌خونه تا ببینه کجا وصل می‌شی. وقتی تیکه‌تیکه بفرستی، نمی‌تونه بخونه.\nاگه با H2 وصل می‌شی ولی کنده، **حتماً اینو امتحان کن**.\n**قدم ۳ — پروفایل**\nRoutes → Profile → **Strict network**\n(برای شبکه‌هایی که خیلی چیزها رو می‌بندن)\n**قدم ۴ — خاموش کردن IPv6**\nTraffic → Addresses → **IPv4 only**\nروی خیلی از شبکه‌های موبایل ایران IPv6 نیمه‌کاره‌ست.\n**قدم ۵ — مبهم‌سازی**\nTraffic → Advanced → Obfuscation → **Aggressive**\n💡\nاگه قدم ۲ مشکلت رو حل کرد، **Off** رو هم تست کن — شاید پدینگ اضافه فقط داشته سرعتت رو می‌گرفته.\n**قدم ۶ — اند‌پوینت دستی**\nRoutes → Endpoint → Specific address → دکمه **Find endpoints**\n⚠️\nگزینه Fall back automatically رو روشن نگه دار.\n**۴ — گزارش مشکل**\nSettings → Diagnostics & logs\n۱. Detail level روی **Verbose**\n۲. دوباره سعی کن وصل بشی\n۳. برگرد و **Send** رو بزن\nقبل از ارسال دقیقاً متنی که فرستاده می‌شه رو می‌بینی، و IP‌ها پیش‌فرض مخفی می‌شن. هیچی بدون اجازه‌ات از گوشیت بیرون نمی‌ره.\n**نکته:** اون خط خاکستری کوچیک زیر متن بزرگ توی صفحه اصلی، پیغام خود موتوره. برای فهمیدن مشکل همیشه اول اونو بخون.\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3\n@whitedns",
+        "date": "2026-08-15T10:00:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1476_0_f5b8da26.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1476_1_8cc7e96f.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1476"
+      },
       {
         "id": 1474,
         "text": "🚀\nانتشار WhiteDNS Clean IP Finder 1.3.7\nنسخه جدید WhiteDNS Clean IP Finder با تمرکز روی افزایش سرعت پیدا کردن DNS Resolverهای سالم در Desktop و Android منتشر شد.\n⚡️\nمهم‌ترین تغییرات:\n• اجرای همزمان تست‌های DNS Transport و TXT Passthrough برای کاهش Timeout\n• اجرای Parallel بررسی‌های NXDOMAIN Hijack\n• اضافه شدن Fast Scan با حفظ بررسی‌های اصلی A Record، Recursion، EDNS و TXT Tunnel\n• حفظ Full Scan به‌عنوان حالت پیش‌فرض برای بررسی کامل\n• بهبود دریافت و Cache اطلاعات Reference DNS\n• اضافه شدن UDP/53 Only و TCP/53 Only در Android\n• گزارش دقیق‌تر DNS Poisoning، Injection و Hijack\n• بروزرسانی دیتابیس Iran & Global ASN شامل IPv4 و IPv6\n💻\nپشتیبانی از Windows، Linux، macOS و Termux\n📱\nنسخه Android شامل APKهای مختلف، Universal APK\n✅\nبرای آپدیت نیازی به تغییر تنظیمات قبلی نیست.\n📥\nدانلود WhiteDNS Clean IP Finder 1.3.7:\nhttps://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases/tag/v1.3.7\n⚡️\nWhiteDNS Clean IP Finder — اسکن سریع‌تر، تشخیص دقیق‌تر و دیتابیس به‌روزتر\n@whitedns",
@@ -15638,31 +15663,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1323"
-      },
-      {
-        "id": 1322,
-        "text": "https://t.me/+FE3VusXUmuE4Yjhk  در گروه اختصاصی ما عضو شوید لطفا\n🤝\n@whitedns",
-        "date": "2026-07-26T08:33:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1322_0_87dc8eeb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1322_1_6184f0e0.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+FE3VusXUmuE4Yjhk",
-            "type": "telegram",
-            "display_text": "https://t.me/+FE3VusXUmuE4Yjhk"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1322"
       }
     ],
     "ZibaNabz": [
@@ -26276,7 +26276,7 @@
       }
     ]
   },
-  "last_update": "2026-08-15T09:52:39.581649+00:00",
+  "last_update": "2026-08-15T10:16:21.352559+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1636,
@@ -26291,7 +26291,7 @@
     },
     "referenced_files": 1692,
     "existing_media_files": 1692,
-    "total_size_mb": 495.67,
-    "last_calculation": "2026-08-15T09:52:39.601970+00:00"
+    "total_size_mb": 497.83,
+    "last_calculation": "2026-08-15T10:16:21.372503+00:00"
   }
 }
