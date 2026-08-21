@@ -13547,6 +13547,31 @@
     ],
     "whitedns": [
       {
+        "id": 1552,
+        "text": "سلام خدمت همه دوستان عزیز\n✍️\nاز دیروز گزارش های زیادی روی WhiteVPN روی گوشی های قدیمی گرفتیم که بهمون گفتید نصب نمیشه، یا نصب میشه ولی میزنید روی اتصال، اررور میگیرید.\nما سعی کردیم توی ورژن ۱.۶.۱ که از لینک زیر میتونید دانلود کنید این مورد رو حل کنیم.\nحالا گوشی های اندروید قدیمی‌تر هم میتونن بدون دردسر وصل بشن.\nهمچنین مشکل کانکشن هایی که camouflage داشتند هم توی این ورژن حل شده.\nتغییر دیگه،ای نداشتیم  جز این دو مورد.\nدانلود آخرین نسخه\nhttps://github.com/WhiteDNS/WhiteVPN/releases/latest\nبا تشکر\nتیم WhiteDNS",
+        "date": "2026-08-21T03:25:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1552_0_d8a127b7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1552_1_147fc452.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN/releases/latest",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN/releases/latest"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1552"
+      },
+      {
         "id": 1550,
         "text": "دوستان عزیز\nلینک ساب رو باید بعد از کلیک کردن روی دکمه Raw مشابه به عکسی که گذاشتیم کپی کنید.\nلینک\nصحیح WhiteDNS Sub\nhttps://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml",
         "date": "2026-08-21T01:56:27+00:00",
@@ -15686,21 +15711,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1394"
-      },
-      {
-        "id": 1393,
-        "text": "🚀\nآپدیت WhiteVPN 1.2.0\n✍️\nلطفا تست کنید و نتیجه رو با ما به اشتراک بگذارید.",
-        "date": "2026-08-03T04:15:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1393_0_25e59eed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1393"
       }
     ],
     "ZibaNabz": [
@@ -26406,22 +26416,22 @@
       }
     ]
   },
-  "last_update": "2026-08-21T03:14:01.889524+00:00",
+  "last_update": "2026-08-21T03:32:22.536831+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1642,
-    "total_media": 1653,
-    "total_files": 1653,
-    "total_links": 387,
+    "total_media": 1654,
+    "total_files": 1654,
+    "total_links": 388,
     "files_by_type": {
-      "image": 1563,
+      "image": 1564,
       "video": 88,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 1653,
-    "existing_media_files": 1653,
-    "total_size_mb": 444.58,
-    "last_calculation": "2026-08-21T03:14:01.908904+00:00"
+    "referenced_files": 1654,
+    "existing_media_files": 1654,
+    "total_size_mb": 444.64,
+    "last_calculation": "2026-08-21T03:32:22.556811+00:00"
   }
 }
