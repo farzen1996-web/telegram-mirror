@@ -9239,6 +9239,46 @@
     ],
     "IranintlTV": [
       {
+        "id": 353706,
+        "text": "محمدرضا عارف، معاون اول مسعود پزشکیان، در شبکه ایکس نوشت: «دولت اجازه نخواهد داد تروریسم اقتصادی آمریکا، ثبات اقتصادی و معیشت مردم را هدف قرار دهد.»\nعارف اضافه کرد: «تجربه انقلاب اسلامی نشان داده که فشار اقتصادی قادر به تغییر اراده ملت ایران نیست و نتیجه عکس می‌دهد.»\nhttps://iranintl.com/202608221153",
+        "date": "2026-08-22T16:05:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353706_0_127e46ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353706_1_de84f330.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608221153",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608221153"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353706"
+      },
+      {
+        "id": 353705,
+        "text": "🎧\nنسخه صوتی اخبار شبانگاهی | شنبه ۳۱ مرداد\n@iranintlTV",
+        "date": "2026-08-22T15:58:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353705_0_127e46ee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353705"
+      },
+      {
         "id": 353704,
         "text": "افت شدید قدرت خرید خانوارها، کاهش مصرف کالاهای اساسی و تغییر الگوی غذایی، فشار اقتصادی بر دهک‌های پایین جامعه را تشدید کرده است.\nمعصومه طاهرخانی، تحلیلگر اقتصادی، به ایران‌اینترنشنال گفت کاهش ارزش کالابرگ و گرانی مواد غذایی باعث شده بسیاری از خانوارها به حذف اقلام غذایی یا خرید کالاهای ارزان‌تر و کم‌کیفیت‌تر روی بیاورند.\n@iranintltv",
         "date": "2026-08-22T15:28:46+00:00",
@@ -11263,44 +11303,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353605"
-      },
-      {
-        "id": 353604,
-        "text": "🔻\nمحمد تقوی، ایران اینترنشنال در آنالیز فنی بازی نساجی - اسنقلال گفت: «نساجی به جوانی خودش و حرفه‌ای بودن بازیکنان استقلال باخت. به نظر من استقلال در مسیر درستی فوتبال بازی می‌کند.»\n@iranintltvsport",
-        "date": "2026-08-21T20:03:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353604_0_76a8efba.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353604_1_144ec146.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353604"
-      },
-      {
-        "id": 353603,
-        "text": "🔻\nاستقلال در هفته دوم لیگ برتر در قائمشهر موفق شد با گل دقایق پایانی محمدرضا آزادی نساجی را شکست بدهد تا بعد سالها طلسم پیروز نشدن در ورزشگاه وطنی را بشکند. محمدرضا آزادی پس از ۱۶ ماه و ۱۸ روز توانست برای استقلال گلزنی کند.\n🔹\nتوضیحات مزدک میرزایی، ایران‌اینترنشنال در برنامه هت‌تریک\n@iranintltvsport",
-        "date": "2026-08-21T20:03:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353603_0_76a8efba.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353603_1_342d6b09.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353603"
       }
     ],
     "tavaanatech": [
@@ -26550,22 +26552,22 @@
       }
     ]
   },
-  "last_update": "2026-08-22T15:49:56.252137+00:00",
+  "last_update": "2026-08-22T16:14:37.284152+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1644,
-    "total_media": 1668,
-    "total_files": 1668,
-    "total_links": 396,
+    "total_media": 1667,
+    "total_files": 1667,
+    "total_links": 397,
     "files_by_type": {
-      "image": 1563,
-      "video": 103,
+      "image": 1564,
+      "video": 101,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 1668,
-    "existing_media_files": 1668,
-    "total_size_mb": 494.03,
-    "last_calculation": "2026-08-22T15:49:56.272608+00:00"
+    "referenced_files": 1667,
+    "existing_media_files": 1667,
+    "total_size_mb": 489.76,
+    "last_calculation": "2026-08-22T16:14:37.305670+00:00"
   }
 }
