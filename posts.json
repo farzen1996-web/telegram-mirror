@@ -13481,6 +13481,31 @@
     ],
     "whitedns": [
       {
+        "id": 1571,
+        "text": "مهم\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\nدوستان :\nپست  را با دقت مطالعه کنید\nhttps://t.me/whitedns/1568\nاین کانفیگ های برای قابلیت \"exit chain\" توی اپ whiteaester و whitevpn هست - که ip شما را ثابت میکنه و یک لایه امنیت بیشتر به شما میده چون TLS هست\nچون خیلی از دوستان کانفیگ نداشتن و یا نگران امنیتشون بودند ما این امکان را فراهم کردیم .\nاین کانفیگ ها اصلا برای دور زدن فیلترینگ درست نشده\n🚫\n🚫\n🚫\n@whitedns",
+        "date": "2026-08-23T03:28:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1571_0_573875a7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1571_1_7bd013e9.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/whitedns/1568",
+            "type": "telegram",
+            "display_text": "https://t.me/whitedns/1568"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1571"
+      },
+      {
         "id": 1570,
         "text": "موقت :\nیک سوال خودمونی :\nتا الان نزدیک 50 نفر کانفیگ دریافت کردن\nچرا حتی به خودشون زحمت ندادند یک لایک کنند ؟\nاین فرهنگ عجیب از کجا اومده ؟\nاون لایکی که شما میکنید یک انرژی برای این تیم هست که شما دریغ میکنید .\n😏",
         "date": "2026-08-23T03:06:07+00:00",
@@ -15664,36 +15689,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1414"
-      },
-      {
-        "id": 1413,
-        "text": "🚀\nمعرفی اپلیکیشن WhiteDNS Desktop\nکلاینت قدرتمند تونلینگ DNS برای کامپیوتر\nاگر به‌دنبال ابزاری حرفه‌ای برای تونلینگ DNS، مدیریت پروکسی و عبور از محدودیت‌های شبکه هستید،\nWhiteDNS Desktop\nیکی از کامل‌ترین گزینه‌های در دسترس است.\nاین اپلیکیشن یک کلاینت محلی DNS Tunneling را روی سیستم شما اجرا می‌کند و در کنار آن، امکانات پیشرفته‌ای برای مدیریت پروکسی سیستم در اختیارتان قرار می‌دهد.\n✨\nویژگی‌ها و امکانات کلیدی\n🔹\nپشتیبانی کراس‌پلتفرم\nقابل اجرا روی Windows، macOS و Linux\n🔹\nپشتیبانی از موتورهای مختلف\nامکان انتخاب بین موتورهای:\n• CottenDNS\n• MasterDNS\n• StormDNS\n🔹\nپروکسی محلی کامل\nدارای پروکسی‌های محلی SOCKS5 و HTTP، همراه با قابلیت تنظیم خودکار پروکسی سیستم\nپس از قطع اتصال نیز تنظیمات پروکسی سیستم به‌صورت خودکار به حالت قبلی بازگردانده می‌شوند.\n🔹\nمدیریت پیشرفته پروفایل‌ها\nامکان ساخت و مدیریت:\n• پروفایل‌های اتصال چنددامنه‌ای\n• پروفایل‌های Resolver\n• Import و Export تنظیمات\n• تهیه بکاپ از پروفایل‌ها\n🔹\nپری‌ست‌های آماده\nتنظیمات از پیش آماده‌شده برای شرایط مختلف شبکه:\n⚡️\nSpeed\n— برای دستیابی به بیشترین سرعت\n🛡\nSurvival\n— برای پایداری بیشتر در شبکه‌های محدود\n🔒\nTCP Survival\n— برای اتصال پایدارتر با استفاده از TCP\n🔹\nمانیتورینگ زنده\nنمایش لحظه‌ای:\n• وضعیت اتصال\n• آمار ترافیک مصرفی\n• اطلاعات نشست\n• لاگ‌ها و رویدادهای برنامه\n⚠️\nهشدار امنیتی بسیار مهم\nنسخه‌های رسمی WhiteDNS Desktop فقط از طریق ریپازیتوری رسمی پروژه در GitHub منتشر می‌شوند.\nبرای حفظ امنیت سیستم خود، برنامه را از سایت‌ها، مارکت‌ها، کانال‌ها یا منابع متفرقه دانلود نکنید.\n📥\nدانلود آخرین نسخه از GitHub رسمی:\nhttps://github.com/WhiteDNS/WhiteDNS-Desktop/releases/tag/desktop-v1.2.0\n📢\nعضویت در کانال رسمی تلگرام پروژه:\nhttps://t.me/whitedns\n🤍\nWhiteDNS Desktop",
-        "date": "2026-08-06T07:34:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1413_0_89c0d07e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1413_1_31ce4544.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://github.com/WhiteDNS/WhiteDNS-Desktop/releases/tag/desktop-v1.2.0",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteDNS-Desktop/releases/tag/de..."
-          },
-          {
-            "url": "https://t.me/whitedns",
-            "type": "telegram",
-            "display_text": "https://t.me/whitedns"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1413"
       }
     ],
     "ZibaNabz": [
@@ -26682,13 +26677,13 @@
       }
     ]
   },
-  "last_update": "2026-08-23T03:14:08.530490+00:00",
+  "last_update": "2026-08-23T03:33:01.922006+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1644,
     "total_media": 1695,
     "total_files": 1695,
-    "total_links": 397,
+    "total_links": 396,
     "files_by_type": {
       "image": 1598,
       "video": 95,
@@ -26697,7 +26692,7 @@
     },
     "referenced_files": 1695,
     "existing_media_files": 1695,
-    "total_size_mb": 480.54,
-    "last_calculation": "2026-08-23T03:14:08.589353+00:00"
+    "total_size_mb": 480.64,
+    "last_calculation": "2026-08-23T03:33:01.982924+00:00"
   }
 }
