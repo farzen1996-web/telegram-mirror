@@ -13459,6 +13459,47 @@
     ],
     "whitedns": [
       {
+        "id": 1567,
+        "text": "اگه حوصله خوندن توضیحات رو ندارید، فقط ساب زیر را وارد\nPattNG\n/\nPattN\nکرده و لذت ببرید !\nhttps://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt\nساب هر ۲۴ ساعت آپدیت میشود.\n///\nتوضیحات:\nچند تا از پروژه های عالی که کانفیگهای رایگان را جمع‌آوری و تست میکنند و سپس کانفیگهای سالم را فیلتر و در اختیار قرار میدهند پروژه‌ها‌ی\nhttps://github.com/0xRadikal/Free-v2ray-Configs\nو\nhttps://github.com/itsyebekhe/PSG\nو\nhttps://github.com/Delta-Kronecker/V2ray-Config\nهستند.\nاما این پروژه‌ها دو مشکل اساسی دارند، اول اینکه تست کانفیگها باید از طریق اینترنت و فایروال ایران انجام شود ولی در حال حاضر تست کانفیگها در این پروژه‌ها از طریق گیتهاب انجام میشود، دوم اینکه روی نت‌های آپلود محدود (ایرانسل و ...) عملا اکثر کانفیگهای این پروژه‌ها آپلود محدود هستند و کیفیت بسیار پایینی دارند.\nاز آنجا که با روشهای زیادی میتوان محدودیت آپلود را روی کلودفلر دور زد، من در پروژه‌ی خودم اومدم کانفیگهای کلودفلر سالم را از پروژه‌ها‌ی اصلی جدا کردم و تغییراتی را برای دور زدن محدودیت آپلود (و همچنین دور زدن فیلتر دامنه) اعمال کردم (در حال حاضر متد fragment+fingerprint اعمال شده). بنابراین کانفیگهای نهایی سالم و با حداکثر سرعت در تمامی نتها قابل استفاده هستند.\nبرای دور زدن محدودیت آپلود در نتهای آپلود محدود در حال حاضر فقط باید از کلاینت\nPattNG\n/\nPattN\nاستفاده کنید، بزودی در سایر کلاینتها نیز این مورد پشتیبانی میشود.\nhttps://github.com/patterniha/Free-Configs",
+        "date": "2026-08-23T00:25:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1567_0_573875a7.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
+            "type": "external",
+            "display_text": "https://raw.githubusercontent.com/patterniha/Free-Configs/ma..."
+          },
+          {
+            "url": "https://github.com/0xRadikal/Free-v2ray-Configs",
+            "type": "github",
+            "display_text": "https://github.com/0xRadikal/Free-v2ray-Configs"
+          },
+          {
+            "url": "https://github.com/itsyebekhe/PSG",
+            "type": "github",
+            "display_text": "https://github.com/itsyebekhe/PSG"
+          },
+          {
+            "url": "https://github.com/Delta-Kronecker/V2ray-Config",
+            "type": "github",
+            "display_text": "https://github.com/Delta-Kronecker/V2ray-Config"
+          },
+          {
+            "url": "https://github.com/patterniha/Free-Configs",
+            "type": "github",
+            "display_text": "https://github.com/patterniha/Free-Configs"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1567"
+      },
+      {
         "id": 1566,
         "text": "🔴\nWhiteDNS\nمسیری که قبل از روزهای قطعی اینترنت شروع شد\nتیم WhiteDNS از مدت‌ها قبل از قطعی‌ها و محدودیت‌های گسترده اینترنت فعالیت می‌کرد. از همان ابتدا تلاش کردیم ابزارها، سرویس‌ها و آموزش‌هایی بسازیم که رایگان و در دسترس همه باشند.\nدر این مدت افراد زیادی به این جمع پیوستند؛ بعضی ماندند و بعضی مسیرشان جدا شد، اما چیزی که ما را کنار هم آورد همچنان پابرجاست:\nحرکتی جمعی برای دسترسی آزادتر به اینترنت.\nتیم WhiteDNS تا امروز کاملاً مستقل و بدون هیچ منبع درآمدی اداره شده و تمام هزینه‌ها را خودمان پرداخت کرده‌ایم. با این حال، این مسیر را ادامه می‌دهیم و همچنان ابزارها و سرویس‌های رایگان بیشتری را با کمک همین جامعه خواهیم ساخت.\nحالا تنها مسیر درآمدی ما کانال یوتیوب WhiteDNS است. اگر می‌خواهید از این حرکت حمایت کنید، کانال را سابسکرایب کنید و ویدیوها را ببینید. همین همراهی کمک می‌کند WhiteDNS مستقل، فعال و جامعه‌محور باقی بماند.\n📺\nhttps://www.youtube.com/@WhiteDNS\nممنون که بخشی از این مسیر هستید\n❤️\nتیم WhiteDNS",
         "date": "2026-08-22T15:18:32+00:00",
@@ -15633,37 +15674,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1410"
-      },
-      {
-        "id": 1409,
-        "text": "سرور های فعال WhiteDNS پارت داشته باشید برای تست و زمان قطعی (کلیک کنید روش کپی میشه)\nکلاینت اندروید و IOS از CottenDNS پشتیبانی میکنن و به زودی کلاینت ویندوز هم آماده میشه\nServer #1 thx to LordofCinder\n♥️\nLocation: Turkey\n🇹🇷\ncottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-HufCfh7cgdGh4IHRvIExvcmRvZkNpbmRlciIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFzaGVudGFqaXIuc2JzLCBjLmFzaGVudGFqaXIuc2l0ZSIsImVuY3J5cHRpb25fa2V5IjoiZTU1NGI4ZmI4ZGU4Mjc4ZDJmMTFlODcwNDA0NDI2OWEiLCJlbmNyeXB0aW9uX21ldGhvZCI6M319fQ\nServer #2 thx to Bamdad\n♥️\nLocation: Germany\n🇩🇪\ncottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-HqfCfh6ogdGh4IHRvIEJhbWRhZCIsInNlcnZlciI6eyJkb21haW4iOiJjLmJhbWFrLnh5eiIsImVuY3J5cHRpb25fa2V5IjoiMmRkZWI5ZGYyYzJiYTRkMyIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\ncottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-Hq_Cfh7cgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InBhcmlzLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI1MjViNjkwYjU4ZmU0MTI0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjN9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\n2\ncottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-Hq_Cfh7cgMiB0aHggdG8gQXJhc2toYXRhcmUiLCJzZXJ2ZXIiOnsiZG9tYWluIjoiYS5hcmFzLmRwZG5zLm9yZyIsImVuY3J5cHRpb25fa2V5IjoiNzFkM2MwOWYyYmY1NmVkYSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #5 thx to Coreforge\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIENvcmVmb3JnZSIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFub255bW91cy5vYnNlcnZlciIsImVuY3J5cHRpb25fa2V5IjoiYjI3NTAzOTE5OWIxYzhjOSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4IDIgICB0aHggdG8gQXJhc2toYXRhcmUiLCJzZXJ2ZXIiOnsiZG9tYWluIjoidXNhLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5MzY5NjVjZWYzOWQzMmE5N2JlMWEzZDA4YzhiZmM5MyIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
-        "date": "2026-08-06T01:13:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1409_0_89c0d07e.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
-          },
-          {
-            "url": "https://youtu.be/Mc--GlKw2wg",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Mc--GlKw2wg"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1409"
       }
     ],
     "ZibaNabz": [
@@ -26652,13 +26662,13 @@
       }
     ]
   },
-  "last_update": "2026-08-22T23:46:29.868828+00:00",
+  "last_update": "2026-08-23T00:34:47.322846+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1644,
     "total_media": 1693,
     "total_files": 1693,
-    "total_links": 393,
+    "total_links": 395,
     "files_by_type": {
       "image": 1594,
       "video": 97,
@@ -26668,6 +26678,6 @@
     "referenced_files": 1693,
     "existing_media_files": 1693,
     "total_size_mb": 489.0,
-    "last_calculation": "2026-08-22T23:46:29.906120+00:00"
+    "last_calculation": "2026-08-23T00:34:47.372259+00:00"
   }
 }
