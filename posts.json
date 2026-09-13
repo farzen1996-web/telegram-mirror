@@ -13374,6 +13374,21 @@
     ],
     "whitedns": [
       {
+        "id": 1789,
+        "text": "✍️\nموقت\nاگر روی ویندوز و یا اندروید نسخه قدیمی دارید\n⚠️\n⚠️\nویندوز :\nگزینه reset app data را بزنید و بعد uninstall کنید و جدیدترین نسخه را نصب کنید\nاندروید :\nحتما ورژن قدیمی را uninstall کنید و ورژن جدید را نصب کنید\n@whitedns",
+        "date": "2026-09-13T01:24:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1789_0_20a27655.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1789"
+      },
+      {
         "id": 1788,
         "text": "موقت :\nبرای انتخاب کشور در حالت سایفون شما بار اول حتما باید با این پروتکل روی حالت اتوماتیک وصل بشید و بعد از اون لیست کشورها میاد\nارادتمند\nتیم وایت",
         "date": "2026-09-12T16:21:05+00:00",
@@ -15404,31 +15419,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1602"
-      },
-      {
-        "id": 1601,
-        "text": "مهم\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\nدوستان :\nپست  را با دقت مطالعه کنید\nhttps://t.me/whitedns/1568\nاین کانفیگ های برای قابلیت \"exit chain\" توی اپ whiteaester و whitevpn هست - که ip شما را ثابت میکنه و یک لایه امنیت بیشتر به شما میده چون TLS هست\nچون خیلی از دوستان کانفیگ نداشتن و یا نگران امنیتشون بودند ما این امکان را فراهم کردیم .\nاین کانفیگ ها برای استفاده مستقیم در اپ هایی مثل v2rayng و غیره نیست، اگر قصد استفاده مستقیم دارید لطفاً درخواست ارسال نفرمایید\nتشکر\n@whitedns",
-        "date": "2026-08-25T13:45:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1601_0_8997d418.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1601_1_7490bba4.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/whitedns/1568",
-            "type": "telegram",
-            "display_text": "https://t.me/whitedns/1568"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1601"
       }
     ],
     "ZibaNabz": [
@@ -26460,21 +26450,21 @@
       }
     ]
   },
-  "last_update": "2026-09-13T01:21:13.327778+00:00",
+  "last_update": "2026-09-13T01:38:46.943242+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1651,
-    "total_media": 1705,
-    "total_files": 1705,
-    "total_links": 333,
+    "total_media": 1704,
+    "total_files": 1704,
+    "total_links": 332,
     "files_by_type": {
-      "image": 1594,
+      "image": 1593,
       "video": 109,
       "document": 2
     },
-    "referenced_files": 1705,
-    "existing_media_files": 1705,
-    "total_size_mb": 492.04,
-    "last_calculation": "2026-09-13T01:21:13.374741+00:00"
+    "referenced_files": 1704,
+    "existing_media_files": 1704,
+    "total_size_mb": 491.92,
+    "last_calculation": "2026-09-13T01:38:46.996204+00:00"
   }
 }
