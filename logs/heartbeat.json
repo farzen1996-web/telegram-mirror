@@ -1,8 +1,8 @@
 {
-  "last_check": "2026-09-19 20:07:24 UTC",
+  "last_check": "2026-09-19 23:48:30 UTC",
   "repository": "farzen1996-web/telegram-mirror",
-  "run_id": "35465906742",
-  "health": "cancelled",
-  "media_files": 1680,
-  "media_size": "482M"
+  "run_id": "35476894095",
+  "health": "success",
+  "media_files": 1656,
+  "media_size": "504M"
 }
