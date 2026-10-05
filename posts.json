@@ -9414,6 +9414,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 360779,
+        "text": "ویدیوهای ارسال‌شده به ایران‌اینترنشنال، نصب پوسترهای حمایتی از شاهزاده رضا پهلوی را روی دیوارهای معابر عمومی در شهر خرم‌آباد نشان می‌دهد.",
+        "date": "2026-10-05T13:02:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_360779_0_82e5ed68.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_360779_1_050258d4.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/360779"
+      },
+      {
         "id": 360778,
         "text": "قوه قضاییه جمهوری اسلامی در حالی علیرضا سپاهی و علیرضا رئیسی را اعدام کرد که شهروندان در شبکه‌های اجتماعی با بازنشر گسترده تصاویر و نام این دو معترض، برای نجات آن‌ها در تلاش بودند. یکشنبه ۱۲ مهر نیز خبر عقد تلفنی علیرضا سپاهی و نامزدش، مهشاد کشانی، در زندان در شبکه‌های اجتماعی فراگیر شده بود.\nعادله بورنگ، عضو تحریریه ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
         "date": "2026-10-05T12:55:33+00:00",
@@ -11421,25 +11440,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/360646"
-      },
-      {
-        "id": 360645,
-        "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، ایرانیان ساکن اسپانیا شنبه ۱۱ مهر علیه جمهوری اسلامی و در حمایت از زندانیان سیاسی در مادرید تجمع کردند.",
-        "date": "2026-10-04T16:33:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_360645_0_e1ba7aff.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_360645_1_0b01730a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/360645"
       }
     ],
     "tavaanatech": [
@@ -18723,6 +18723,21 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 74007,
+        "text": "@تیپیکال دخترا بعد از تززیق ژل به باسن\n😂\n😂",
+        "date": "2026-10-05T13:07:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_74007_0_52bcf3d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/74007"
+      },
+      {
         "id": 74006,
         "text": "دخترایی که دوست دختر امیر بودن اومدن یه کانال زدن از خاطرات لاشی بودن امیرا میگن\n😂\n@Tweet",
         "date": "2026-10-05T13:01:12+00:00",
@@ -20338,22 +20353,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/73850"
-      },
-      {
-        "id": 73849,
-        "text": "🔹\n🔹\n‍ سلام من  مهتاب حکمتی هستم\nشما دوستان عزیز را دعوت ميكنم به کانالم که بتونم کمکی به مردم عزیزم کشورم بکنم و دانسته های خودم رو در اختیار شما عزیران بذارم که با خوندن این مطالب بصورت ناخودآگاه ذهن شما تبدیل به ذهن موفق میشه و میتونید خودتون رو کشف کنید تا هم مالی موفق بشید و هم رابطه های جذاب داشته باشد\nفقط با لمس لینک زیر وارد کانال آکادمی موفقیت  شوید دنیاتون رو عوض کنید\n👇\n👇\n👇\n👇\n👇\n👇\nhttps://t.me/+X8Dl5QmfSno1NzJk\nhttps://t.me/+X8Dl5QmfSno1NzJk",
-        "date": "2026-10-02T15:17:11+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://t.me/+X8Dl5QmfSno1NzJk",
-            "type": "telegram",
-            "display_text": "https://t.me/+X8Dl5QmfSno1NzJk"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/Config_HATunnel/73849"
       }
     ],
     "apkclub": [
@@ -26208,21 +26207,21 @@
       }
     ]
   },
-  "last_update": "2026-10-05T13:02:24.355174+00:00",
+  "last_update": "2026-10-05T13:15:03.075349+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1651,
-    "total_media": 1679,
-    "total_files": 1679,
-    "total_links": 316,
+    "total_media": 1680,
+    "total_files": 1680,
+    "total_links": 315,
     "files_by_type": {
-      "image": 1564,
+      "image": 1565,
       "video": 112,
       "audio": 3
     },
-    "referenced_files": 1679,
-    "existing_media_files": 1679,
-    "total_size_mb": 447.52,
-    "last_calculation": "2026-10-05T13:02:24.376948+00:00"
+    "referenced_files": 1680,
+    "existing_media_files": 1680,
+    "total_size_mb": 447.07,
+    "last_calculation": "2026-10-05T13:15:03.089714+00:00"
   }
 }
